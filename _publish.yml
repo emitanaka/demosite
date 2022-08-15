@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 332692e9-2695-46f7-969f-210e9277b4b4
+      url: 'https://quartopub.com/sites/emitanaka/demo'

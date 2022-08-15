@@ -1,0 +1,8 @@
+---
+title: "My new blog post"
+author: "Emi Tanaka"
+date: 2022-08-15
+---
+
+
+This is the content!

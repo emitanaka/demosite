@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "My fancy analysis",
+    "section": "",
+    "text": "library(tidyverse)\nggplot(cars, aes(speed, dist)) +\n  geom_point()"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/new-post/index.html",
+    "href": "posts/new-post/index.html",
+    "title": "My new blog post",
+    "section": "",
+    "text": "This is the content!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Emi’s Demo Site",
+    "section": "",
+    "text": "This is a new things about me! I learnt how to put my blog on the web!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This is Emi’s sample blog."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAug 15, 2022\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\nEmi Tanaka\n\n\nAug 15, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nAug 12, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]

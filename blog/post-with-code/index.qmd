@@ -1,0 +1,15 @@
+---
+title: "My fancy analysis"
+author: "Emi Tanaka"
+date: "2022-08-15"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+
+```{r, message = FALSE}
+library(tidyverse)
+ggplot(cars, aes(speed, dist)) +
+  geom_point()
+```
+

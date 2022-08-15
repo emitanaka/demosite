@@ -1,0 +1,10 @@
+---
+title: "Emi's Demo Site"
+page-layout: full
+title-block-banner: true
+---
+
+Hi! Welcome to my demo website!
+
+
+This is a new things about me! I learnt how to put my blog on the web!
